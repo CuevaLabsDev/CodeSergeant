@@ -359,6 +359,6 @@ AGPL-3.0 - see [LICENSE](LICENSE) for details.
 
 **Stay focused. Ship code.**
 
-Built by [Carlos Cueva](https://github.com/CuevaLabs)
+Built by [Carlos Cueva](https://github.com/CuevaLabsDev)
 
 </div>
